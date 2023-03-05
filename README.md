@@ -9,6 +9,7 @@
 <p align="left"> <a href="https://twitter.com/ayomideefuwape" target="blank"><img src="https://img.shields.io/twitter/follow/ayomideefuwape?logo=twitter&style=for-the-badge" alt="ayomideefuwape" /></a> </p>
 
 - 🔭 I’m currently working on [leetcode challenges](https://leetcode.com/Ayomitide/)
+- 🔭 I'm also solving challenges at [frontend mentor](https://www.frontendmentor.io/profile/mide2020-16)
 
 - 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, PYTHON, REACT.JS FRAMER-MOTION, GIT, GITHUB, SASS,NPM, FIGMA**
 
@@ -18,7 +19,7 @@
 
 - 📫 How to reach me **efuwapeayomide51@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1IMpzeVRZA8alxt-20FP8S8bLTudVXWAMWqJgFEVXLdQ/edit?usp=drivesdk](https://docs.google.com/document/d/1IMpzeVRZA8alxt-20FP8S8bLTudVXWAMWqJgFEVXLdQ/edit?usp=drivesdk)
+- 📄 Know about my experiences [my resume](https://docs.google.com/document/d/1IMpzeVRZA8alxt-20FP8S8bLTudVXWAMWqJgFEVXLdQ/edit?usp=drivesdk)
 
 - ⚡ Fun fact **I am a very friendly person and a Christian**
 
