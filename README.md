@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mide2020-16" alt="mide2020-16" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ayomideefuwape" target="blank"><img src="https://img.shields.io/twitter/follow/ayomideefuwape?logo=twitter&style=for-the-badge" alt="ayomideefuwape" /></a> </p>
+<p align="left"> <a href="https://twitter.com/westfiree" target="blank"><img src="https://img.shields.io/twitter/follow/westfireee?logo=twitter&style=for-the-badge" alt="ayomideefuwape" /></a> </p>
 
 - 🔭 I’m currently working on [leetcode challenges](https://leetcode.com/Ayomitide/)
 - 🔭 I'm also solving challenges at [frontend mentor](https://www.frontendmentor.io/profile/mide2020-16)
